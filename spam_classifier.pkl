@@ -1,0 +1,99 @@
+€•¥      Œsklearn.pipeline”ŒPipeline”“”)”}”(Œsteps”]”(Œcountvectorizer”Œsklearn.feature_extraction.text”ŒCountVectorizer”“”)”}”(Œinput”Œ
+content”Œencoding”Œutf-8”Œ
+decode_error”Œstrict”Œ
+strip_accents”NŒ
+preprocessor”NŒ	tokenizer”NŒanalyzer”Œword”Œ	lowercase”ˆŒ
+token_pattern”Œ
+(?u)\b\w\w+\b”Œ
+stop_words”NŒmax_df”G?ð      Œmin_df”KŒ
+max_features”NŒ
+ngram_range”KK†”Œ
+vocabulary”NŒbinary”‰Œdtype”Œnumpy”Œint64”“”Œfixed_vocabulary_”‰Œ
+_stop_words_id”ŠðñûýŒ
+vocabulary_”}”(Œwin”K6Œfree”KŒiphone”KŒnow”K"Œclick”K	Œhere”KŒhey”KŒare”KŒwe”K4Œstill”K*Œ
+meeting”KŒfor”KŒlunch”KŒurgent”K/Œyour”K;Œbank”KŒ
+account”K Œis”KŒlocked”KŒverify”K1Œmom”K Œcalled”KŒshe”K)Œwants”K2Œyou”K:Œto”K-Œbuy”KŒmilk”KŒcongratulations”K
+Œwon”K8Œthe”K+Œ
+lottery”KŒplease”K#Œreview”K'Œattached”KŒ
+project”K$Œreport”K&Œentry”K
+Œin”KŒwkly”K7Œcomp”K
+Œfa”KŒcup”K
+Œfinal”KŒtkts”K,Œwill”K5Œbe”KŒlate”KŒclass”KŒtoday”K.Œxxxmobilemovieclub”K9Œuse”K0Œcredit”K
+Œwap”K3Œlink”KŒcan”K
+Œsend”K(Œme”KŒnotes”K!Œpython”K%uŒ_sklearn_version”Œ1.7.2”ub†”Œ
+multinomialnb”Œsklearn.naive_bayes”Œ
+MultinomialNB”“”)”}”(Œalpha”G?ð      Œ	fit_prior”ˆŒ
+class_prior”NŒ
+force_alpha”ˆŒ
+n_features_in_”K<Œclasses_”Œjoblib.numpy_pickle”ŒNumpyArrayWrapper”“”)”}”(Œsubclass”h$Œ
+ndarray”“”Œshape”K…”Œorder”ŒC”h#h$Œdtype”“”ŒU4”‰ˆ‡”R”(KŒ<”NNNKKKt”bŒ
+allow_mmap”ˆŒnumpy_array_alignment_bytes”Kubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿh   a   m       s   p   a   m   •T       Œ
+class_count_”hx)”}”(h{h}h~K…”h€hh#hƒŒf8”‰ˆ‡”R”(Kh‡NNNJÿÿÿÿJÿÿÿÿK t”bh‰ˆhŠKubÿÿ      @      @•6       Œ
+feature_count_”hx)”}”(h{h}h~KK<†”h€hh#h‘h‰ˆhŠKubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ              ð?      ð?              ð?      ð?      ð?      ð?      ð?                                                                      @                      ð?                              ð?                              ð?      ð?      ð?      ð?      ð?      ð?              ð?      ð?      ð?      ð?      ð?      ð?      ð?      ð?      @              ð?      ð?                              ð?              ð?      ð?                                       @              ð?                      ð?                                               @      ð?      ð?      ð?      ð?      ð?      ð?      ð?               @      ð?              ð?      ð?      ð?              ð?      ð?      ð?                                                       @                                                                       @      ð?       @              ð?      ð?      ð?              ð?                       @      ð?      ð?      ð?      ð?       @•9       Œfeature_log_prob_”hx)”}”(h{h}h~KK<†”h€hh#h‘h‰ˆhŠKub
+ÿÿÿÿÿÿÿÿÿÿÿÿÿø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø,’|§l	Àø¤
+~äAÀø¤
+~äAÀt»P<8ø
+Àø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀt»P<8ø
+Àø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àt»P<8ø
+Àø,’|§l	Àø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀt»P<8ø
+Àø¤
+~äAÀt»P<8ø
+Àt»P<8ø
+Àø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀø¤
+~äAÀjÈ¸¾Ó¹
+Àø¤
+~äAÀÚ«mr=7À+gaÀ+gaÀÚ«mr=7À+gaÀ+gaÀ+gaÀ+gaÀ+gaÀÐ¸ÕôØø
+ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7À+gaÀÐ¸ÕôØø
+ÀÚ«mr=7À+gaÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7À+gaÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7À+gaÀ+gaÀ+gaÀ+gaÀ+gaÀ+gaÀÐ¸ÕôØø
+À+gaÀ+gaÀ+gaÀ+gaÀ+gaÀ+gaÀ+gaÀ+gaÀÐ¸ÕôØø
+ÀÚ«mr=7ÀÐ¸ÕôØø
+À+gaÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7À+gaÀÚ«mr=7À+gaÀ+gaÀÐ¸ÕôØø
+ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÚ«mr=7ÀÐ¸ÕôØø
+À•6       Œclass_log_prior_”hx)”}”(h{h}h~K…”h€hh#h‘h‰ˆhŠKubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿò9úþB.æ¿ò9úþB.æ¿•8       hghhub†”eŒtransform_input”NŒmemory”NŒ
+verbose”‰hghhub.
